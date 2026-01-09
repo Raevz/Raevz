@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I’m Ryan 👋
+Electrical Engineering student at BCIT focused on practical embedded systems, robotics, and software development.
 
-<!--
-**Raevz/Raevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like projects where constraints matter: timing, reliability, power, signal integrity, and getting the whole system integrated (firmware + interfaces + tooling + documentation).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focused on right now
+- Embedded firmware + RTOS patterns (task design, concurrency, logging, serial tooling)
+- Sensors and signal processing (radar-ish sensing, serial protocols, real-world noise)
+- Building “demoable” systems: repeatable builds, clear docs, clean interfaces
+- Developing reliable robotic systems
+
+---
+
+## Skills (practical)
+**Embedded / Firmware**
+- C/C++, FreeRTOS-style tasking, interrupts, concurrency, debugging, serial tooling
+- Peripheral interfaces: UART, SPI, I2C, GPIO, PWM
+
+**Software / Tools**
+- Python for automation and utilities (serial parsing, CSV logs, quick tooling)
+- MATLAB for modeling/simulation when it saves time
+- Git/GitHub workflows, documentation, reproducible builds
+
+**FPGA / Digital Design**
+- SystemVerilog basics, hardware/software partitioning, memory-mapped I/O
+- SoC integration concepts (FPGA ↔ processor communication)
+
+**Hardware**
+- Prototyping, soldering, bring-up/debug with scope/logic analyzer
+- Working with real constraints (power, grounding, signal integrity)
+    
