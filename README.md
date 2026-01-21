@@ -30,4 +30,19 @@ I like projects where constraints matter: timing, reliability, power, signal int
 **Hardware**
 - Prototyping, soldering, bring-up/debug with scope/logic analyzer
 - Working with real constraints (power, grounding, signal integrity)
-    
+
+---
+
+## Projects I'm Proud to Share
+**C language**
+- NFC reader attendance system (RTOS)
+
+**C++**
+- SCARA robot simulation
+- Coloured ball sorter
+
+**Python**
+- Nao robot capstone project
+
+**System Verilog**
+- Ultrasonic radar system
