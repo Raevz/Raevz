@@ -35,7 +35,7 @@ I like projects where constraints matter: timing, reliability, power, signal int
 
 ## Projects I'm Proud to Share
 **C language**
-- NFC reader attendance system (RTOS)
+- [NFC reader attendance system (RTOS)](https://github.com/Raevz/Pico2w_NFC_Logger/blob/main/README.md)
 
 **C++**
 - SCARA robot simulation
