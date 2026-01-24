@@ -45,4 +45,4 @@ I like projects where constraints matter: timing, reliability, power, signal int
 - Nao robot capstone project
 
 **System Verilog**
-- Ultrasonic radar system
+- [Ultrasonic radar system](https://github.com/Raevz/Radar/blob/main/README.md)
