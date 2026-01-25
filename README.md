@@ -1,7 +1,9 @@
 # Hi, I’m Ryan 👋
 Electrical Engineering student at BCIT focused on practical embedded systems, robotics, and software development.
 
-I like projects where constraints matter: timing, reliability, power, signal integrity, and getting the whole system integrated (firmware + interfaces + tooling + documentation).
+I like working on projects that allow me to take a solution from start to finish. 
+
+I am currently working on a capstone project with other members of my team from BCIT. We are working to program a Nao robot (from Aldebaran Robotics) to perform to the specifications of the [UBC NEST Lab.](https://www.nestlab.ca/) This includes programming the robot to perform dances, stretches, and conversations. Programming is mainly in the proprietary software Choregraphe (Python based). If you're interested in the project please see the video linked in the section below and feel free to message me.  
 
 ---
 
