@@ -35,14 +35,14 @@ I like projects where constraints matter: timing, reliability, power, signal int
 
 ## Projects I'm Proud to Share
 **C language**
-- [NFC reader attendance system (RTOS)](https://github.com/Raevz/Pico2w_NFC_Logger/blob/main/README.md)
+- [NFC reader attendance system (RTOS)(2025)](https://github.com/Raevz/Pico2w_NFC_Logger/blob/main/README.md)
 
 **C++**
-- [SCARA robot simulation](https://github.com/Raevz/Virtual_Robotics/blob/main/README.md)
-- [Coloured ball sorter](https://github.com/Raevz/Colour_Sorter/blob/main/README.md)
+- [SCARA robot simulation (2025)](https://github.com/Raevz/Virtual_Robotics/blob/main/README.md)
+- [Coloured ball sorter (2024)](https://github.com/Raevz/Colour_Sorter/blob/main/README.md)
 
 **Python**
-- Nao robot capstone project
+- [Nao robot capstone project - Video only (2025-2026)](https://youtu.be/onvUL8-2nvM)
 
 **System Verilog**
-- [Ultrasonic radar system](https://github.com/Raevz/Radar/blob/main/README.md)
+- [Ultrasonic radar system (2025)](https://github.com/Raevz/Radar/blob/main/README.md)
